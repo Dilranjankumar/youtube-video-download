@@ -1,36 +1,27 @@
-<div align="center">
-  <img src="https://i.imgur.com/Ua0sb9i.png" alt="YouTube Video Downloader" width="400">
-</div>
+# YouTube Video Downloader
 
-<h1 align="center">YouTube Video Downloader</h1>
-
-<p align="center">
-  A simple YouTube video downloader with a sleek Tkinter GUI
-</p>
+A simple Python script with a Tkinter GUI for downloading YouTube videos.
 
 <div align="center">
-
-  [![GitHub Issues](https://img.shields.io/github/issues/Dilranjankumar/youtube-video-download.svg)](https://github.com/Dilranjankumar/youtube-video-download/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Dilranjankumar/youtube-video-download.svg)](https://github.com/Dilranjankumar/youtube-video-download/pulls)
-  [![License](https://img.shields.io/github/license/Dilranjankumar/youtube-video-download.svg)](/LICENSE)
-
+  <img src="https://images.minitool.com/youtubedownload.minitool.com/images/uploads/2023/07/download-youtube-video-thumbnail.jpg" alt="YouTube Video Downloader" width="400">
 </div>
 
-## Table of Contents
+## 🚀 Features
 
-- [Quick Start](#rocket-quick-start)
-- [Usage](#computer-usage)
-- [Customization](#wrench-customization)
-- [License](#page_with_curl-license)
-- [Contributing](#handshake-contributing)
-- [Contact](#mailbox-contact)
+- Download YouTube videos by pasting the video URL.
+- Choose the video quality and download location.
+- Sleek Tkinter GUI for easy navigation.
+- Error handling for invalid URLs and download failures.
 
-## :rocket: Quick Start
+## 🛠️ Prerequisites
+
+- Python 3.x installed on your system.
+- Required Python packages: `tkinter`, `pytube`.
+
+## ⚙️ Installation
 
 1. **Clone the repository**:
 
-```sh
+```bash
 git clone https://github.com/Dilranjankumar/youtube-video-download.git
-cd youtube-video-download
-
 
