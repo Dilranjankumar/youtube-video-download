@@ -33,6 +33,4 @@
 git clone https://github.com/Dilranjankumar/youtube-video-download.git
 cd youtube-video-download
 
-<p align="center">
-  Made with ❤️ by [Dilranjan Kumar](https://github.com/Dilranjankumar)
-</p>
+
